@@ -1,0 +1,3 @@
+resource.h ConsoleTray.cpp ConsoleTray.rc   为托盘相关代码
+dll_ChangeUser.cpp   dll_Change.h           为用户切换功能相关代码
+剩余为主程序代码
